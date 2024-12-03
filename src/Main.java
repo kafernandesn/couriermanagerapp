@@ -81,7 +81,7 @@ public class Main {
                     scanner.close();
                     return;
 
-                default:git
+                default:
                     System.out.println("Invalid choice! Please try again.");
             }
         }
